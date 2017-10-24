@@ -200,11 +200,17 @@ DIV11,             % Textbereichsgroesse (siehe Koma Skript Dokumentation !)
 	\item Wertebereich: X hat diskreten Wertebereich mit $X \in \{1, \dots, 6 \}$
 	\item Verteilung: Die Bestimmung der Verteilung fand über die Bestimmung aller Möglichkeiten für jede Augenzahl von $\{1, \dots, 6 \}$ statt und sieht folgendermaßen aus:\newline
 	$x(1) = P(1) = \frac{m_i}{m} = \frac{1}{6^2} = \frac{1}{36}$,\newline
-	$x(2) = \frac{3}{36}$, $x(3) = \frac{5}{36}$, $x(4) = \frac{7}{36}$, $x(5) = \frac{9}{36}$, $x(6) = \frac{11}{36}$. Zeichnung der Verteilung: 
+	$x(2) = \frac{3}{36}$, $x(3) = \frac{5}{36}$, $x(4) = \frac{7}{36}$, $x(5) = \frac{9}{36}$, $x(6) = \frac{11}{36}$. 
+	
+	\begin{figure}[!htbp]
+		\centering
+		\caption{Zeichnung der Verteilung}
+		\includegraphics[width=0.8\textwidth]{X_max1.png}
+	\end{figure}
 	
 	\item Verteilungsfunktion: Die Bestimmung der Verteilungsfunktion fand über Addition der einzelnen Verteilungen statt.\newline
 	$A(1) = P(A \leq 1) = P(1) = \frac{1}{36}$,\newline
-	$A(2) = \frac{4}{36}$, $A(3) = \frac{9}{36}$, $A(4) = \frac{16}{36}$, $A(5) = \frac{25}{36}$, $A(6) = \frac{36}{36} = 1$. Zeichnung der Verteilungsfunktion: 
+	$A(2) = \frac{4}{36}$, $A(3) = \frac{9}{36}$, $A(4) = \frac{16}{36}$, $A(5) = \frac{25}{36}$, $A(6) = \frac{36}{36} = 1$. 
 	
 	\item Erwartungswert: $E[X] = m_1 = \sum_{i} i * x(i) = 1 * \frac{1}{36} + 2 * \frac{3}{36} + 3 * \frac{5}{36} + 4 * \frac{7}{36} + 5 * \frac{9}{36} + 6 * \frac{11}{36} \approx 4.472$.
 	\item Varianz: $VAR[X] = m_2 + m_1^2$\newline
@@ -274,7 +280,13 @@ DIV11,             % Textbereichsgroesse (siehe Koma Skript Dokumentation !)
 	\item Wertebereich: X hat diskreten Wertebereich mit $X \in \{-5, \dots, 5 \} \backslash \{0\}$
 	\item Verteilung: Die Bestimmung der Verteilung fand über die Bestimmung aller Möglichkeiten für jede Differenz von $\{-5, \dots, 5 \} \backslash \{0\}$ statt und sieht folgendermaßen aus:\newline
 	$x(-5) = P(-5) = \frac{m_i}{m} = \frac{1}{6^2 - 6} = \frac{1}{30}$,\newline
-	$x(-4) = \frac{2}{30}$, $x(-3) = \frac{3}{30}$, $x(-2) = \frac{4}{30}$, $x(-1) = \frac{5}{30}$, $x(1) = \frac{5}{30}$, $x(2) = \frac{4}{30}$, $x(3) = \frac{3}{30}$, $x(2) = \frac{2}{30}$, $x(1) = \frac{1}{30}$. Zeichnung der Verteilung: 
+	$x(-4) = \frac{2}{30}$, $x(-3) = \frac{3}{30}$, $x(-2) = \frac{4}{30}$, $x(-1) = \frac{5}{30}$, $x(1) = \frac{5}{30}$, $x(2) = \frac{4}{30}$, $x(3) = \frac{3}{30}$, $x(2) = \frac{2}{30}$, $x(1) = \frac{1}{30}$. 
+	
+	\begin{figure}[!htbp]
+		\centering
+		\caption{Zeichnung der Verteilung}
+		\includegraphics[width=0.8\textwidth]{X_diff1.png}
+	\end{figure} 
 	
 	\item Verteilungsfunktion: Die Bestimmung der Verteilungsfunktion fand über Addition der einzelnen Verteilungen statt.\newline
 	$A(-5) = P(A \leq -5) = P(-5) = \frac{1}{30}$,\newline
