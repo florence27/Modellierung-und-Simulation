@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.21)  24 OCT 2017 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.21)  25 OCT 2017 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1478,40 +1478,40 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 119.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<X_sum1.png, id=7, 3692.79625pt x 2038.61626pt>
+<X_sum1.png, id=7, 1405.25pt x 775.89874pt>
 File: X_sum1.png Graphic file (type png)
  <use X_sum1.png>
 Package pdftex.def Info: X_sum1.png used on input line 141.
-(pdftex.def)             Requested size: 256.07741pt x 141.34901pt.
-
-<X_sum2.png, id=9, 3731.9425pt x 2044.63875pt>
-File: X_sum2.png Graphic file (type png)
- <use X_sum2.png>
-Package pdftex.def Info: X_sum2.png used on input line 151.
-(pdftex.def)             Requested size: 256.07741pt x 140.26906pt.
+(pdftex.def)             Requested size: 256.07741pt x 141.38428pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 147.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 147.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 147.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 147.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./X_sum
 1.png>]
+<X_sum2.png, id=34, 1405.25pt x 769.87625pt>
+File: X_sum2.png Graphic file (type png)
+ <use X_sum2.png>
+Package pdftex.def Info: X_sum2.png used on input line 151.
+(pdftex.def)             Requested size: 256.07741pt x 140.28685pt.
+
 Underfull \hbox (badness 10000) in paragraph at lines 164--179
 
  []
 
-<xminvert.png, id=36, 802.49812pt x 481.04718pt>
+<xminvert.png, id=35, 802.49812pt x 481.04718pt>
 File: xminvert.png Graphic file (type png)
  <use xminvert.png>
 Package pdftex.def Info: xminvert.png used on input line 183.
 (pdftex.def)             Requested size: 256.07741pt x 153.50517pt.
 
-<xminvertfkt.png, id=37, 792.71156pt x 471.26062pt>
+<xminvertfkt.png, id=36, 792.71156pt x 471.26062pt>
 File: xminvertfkt.png Graphic file (type png)
  <use xminvertfkt.png>
 Package pdftex.def Info: xminvertfkt.png used on input line 200.
@@ -1530,93 +1530,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
-<X_max1.png, id=51, 2387.92125pt x 1745.52126pt>
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 216.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 216.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 216.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 216.
+[3 <./xminvert.png> <./xminvertfkt.png>]
+<X_max1.png, id=63, 1204.5pt x 880.28876pt>
 File: X_max1.png Graphic file (type png)
  <use X_max1.png>
 Package pdftex.def Info: X_max1.png used on input line 220.
-(pdftex.def)             Requested size: 256.07741pt x 187.18709pt.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 226.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 226.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 226.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 226.
- [3 <./xminvert.png> <./xminvertfkt.png>] <X_max2.png, id=66, 2527.4425pt x 212
-2.93124pt>
+(pdftex.def)             Requested size: 256.07741pt x 187.14955pt.
+
+<X_max2.png, id=64, 1204.5pt x 1011.78pt>
 File: X_max2.png Graphic file (type png)
-
-<use X_max2.png>
+ <use X_max2.png>
 Package pdftex.def Info: X_max2.png used on input line 230.
-(pdftex.def)             Requested size: 256.07741pt x 215.09138pt.
-
+(pdftex.def)             Requested size: 256.07741pt x 215.10461pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 237.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 237.
+ [4 <./X_max1.png> <./X_max2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 243--263
 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 263.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 263.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 263.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 263.
-[4 <./X_max1.png> <./X_max2.png>]
-<xdiff1vert.png, id=80, 800.23969pt x 477.28313pt>
+<xdiff1vert.png, id=77, 800.23969pt x 477.28313pt>
 File: xdiff1vert.png Graphic file (type png)
  <use xdiff1vert.png>
 Package pdftex.def Info: xdiff1vert.png used on input line 267.
 (pdftex.def)             Requested size: 341.43437pt x 203.64009pt.
 
-<xdiff1vertfkt.png, id=81, 797.22844pt x 465.99094pt>
+<xdiff1vertfkt.png, id=78, 797.22844pt x 465.99094pt>
 File: xdiff1vertfkt.png Graphic file (type png)
  <use xdiff1vertfkt.png>
 Package pdftex.def Info: xdiff1vertfkt.png used on input line 285.
 (pdftex.def)             Requested size: 341.43437pt x 199.56871pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 293.
+(babel)             in language  on input line 287.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 293.
+(babel)             in language  on input line 287.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 293.
+(babel)             in language  on input line 287.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 293.
+(babel)             in language  on input line 287.
 
-[5 <./xdiff1vert.png>] <X_diff1.png, id=91, 2948.01375pt x 2313.64375pt>
+[5 <./xdiff1vert.png>] <X_diff1.png, id=89, 1405.25pt x 1103.12125pt>
 File: X_diff1.png Graphic file (type png)
 
 <use X_diff1.png>
 Package pdftex.def Info: X_diff1.png used on input line 306.
-(pdftex.def)             Requested size: 256.07741pt x 200.94647pt.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 312.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 312.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 312.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 312.
- [6 <./xdiff1vertfkt.png> <./X_diff1.png>]
-<X_diff2.png, id=104, 2945.0025pt x 2124.93875pt>
+(pdftex.def)             Requested size: 256.07741pt x 201.01076pt.
+ <X_diff2.png, id=90, 1405.25pt x 1013.7875pt>
 File: X_diff2.png Graphic file (type png)
- <use X_diff2.png>
+
+<use X_diff2.png>
 Package pdftex.def Info: X_diff2.png used on input line 316.
-(pdftex.def)             Requested size: 256.07741pt x 184.75145pt.
+(pdftex.def)             Requested size: 256.07741pt x 184.73238pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 317.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 317.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 339.
+(babel)             in language  on input line 317.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 339.
- [7 <./X_diff2.png>] <a4vert.jpg, id=115, 1744.26656pt x 916.1728pt>
+(babel)             in language  on input line 317.
+ [6 <./xdiff1vertfkt.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 330.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 330.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 330.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 330.
+ [7 <./X_diff1.png> <./X_diff2.png>] <a4vert.jpg, id=115, 2325.68875pt x 1221.5
+6375pt>
 File: a4vert.jpg Graphic file (type jpg)
  <use a4vert.jpg>
 Package pdftex.def Info: a4vert.jpg used on input line 343.
-(pdftex.def)             Requested size: 341.43437pt x 179.33098pt.
+(pdftex.def)             Requested size: 341.43437pt x 179.331pt.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 346.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1625,13 +1626,12 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 346.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 346.
-
-[8 <./a4vert.jpg>] <a4vertfkt.jpg, id=123, 1811.26688pt x 926.71219pt>
+ [8 <./a4vert.jpg>] <a4vertfkt.jpg, id=123, 2415.0225pt x 1235.61626pt>
 File: a4vertfkt.jpg Graphic file (type jpg)
 
 <use a4vertfkt.jpg>
 Package pdftex.def Info: a4vertfkt.jpg used on input line 352.
-(pdftex.def)             Requested size: 341.43437pt x 174.69138pt.
+(pdftex.def)             Requested size: 341.43437pt x 174.68195pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 358--360
 
@@ -1658,11 +1658,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 365.
 Here is how much of TeX's memory you used:
  25509 strings out of 493089
  482520 string characters out of 6134841
- 639761 words of memory out of 5000000
+ 640761 words of memory out of 5000000
  28406 multiletter control sequences out of 15000+600000
  47506 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,10n,67p,929b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,10n,67p,929b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
 cal/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/20
 15/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2015/texmf-d
@@ -1678,7 +1678,7 @@ blic/lm/lmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr7
 .pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on Blatt1.pdf (9 pages, 49844277 bytes).
+Output written on Blatt1.pdf (9 pages, 12896970 bytes).
 PDF statistics:
  191 PDF objects out of 1000 (max. 8388607)
  144 compressed objects within 2 object streams
